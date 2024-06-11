@@ -22,19 +22,13 @@ GOALPOST is an exciting player-versus-player (PVP) card game inspired by the tra
 
 ### Onboarding the next billion
 
-As builders, it is our eternal mission to onboard the next billion to the blockchain. We believe this is possible through the creation of highly engaging, dopamine inducing social games built on top of Solana's massive speed and scalability. Blockchain games are currently synonymous with clunky experiences and gameplay, and this is something that we are intent on changing.
+As builders, it is our mission to onboard the next billion to the blockchain. We believe this is possible through the creation of highly engaging, dopamine inducing social games built on top of Solana's massive speed and scalability. Blockchain games are currently synonymous with clunky experiences and gameplay - we are intent on changing this preconception.
 
 ### A social gaming platform
 
 Unlike other blockchain games, GOALPOST offers a social, interactive experience where players can compete, collaborate, and earn together. Its engaging mechanics ensure high levels of excitement and satisfaction, fostering long-term player retention. Tie in the community based battlepass and seasonal leaderboards, and you have the perfect recipe for a truly community centric, highly social gaming environment.
 
-### A tight knit community
-
-#### 🧙‍♂️ Druids, first 1/1 Collection with rev. share
-
-The Druids collection will receive 20% of Goalpost's benefits, shared among the holders. With the collection expanding through private sales and auctions every two weeks for two years, these 144 holders (when fully minted) will enjoy a significant revenue share not only from Goalpost but from the entire Savage Labs ecosystem.
-
-## How to play
+## How to play?
 
 ![Goalpost Bonk Table](https://goalpost.nyc3.cdn.digitaloceanspaces.com/github/bonk_preview.png)
 
@@ -66,11 +60,11 @@ The current version of GOALPOST is the culmination of continuous iteration on fe
 
 Players can simply sign in with their discord/email accounts to get started in no time. Every player is given a hot wallet that they can top-up with SOL or other tokens on Solana to play with. The hot wallet system is implemented using the [squads.so multisig SDK](https://docs.squads.so/squads-v3-docs/development/sdk), making it possible to delegate control of these wallets to GOALPOST.
 
-### Community Branded Tables
+### 🎨 Community Branded Tables
 
 We currently have 3 community partnerships, for which we have implemented community branded tables. Revenue from these tables is shared with the respective communities.
 
-### Custom Token Integration
+### 💥 Custom Token Integration
 
 In addition to wagering with SOL, our players can now jump into the fray with BONK!
 
@@ -144,15 +138,15 @@ We plan on launching Goalpost Academy, a suite of videos and tools to teach peop
 
 ## Our Partnerships
 
-We are actively looking for new partnerships that will help us promote GOALPOST while increasing our value proposition.
+We are actively looking for new partnerships that will help us promote GOALPOST while bringing value to all involved parties and communities.
 
 <img src="https://goalpost.nyc3.cdn.digitaloceanspaces.com/icons/monkedao_square.jpg" height=128 /> <img src="https://goalpost.nyc3.cdn.digitaloceanspaces.com/icons/dks.jpeg" height=128 /> <img src="https://goalpost.nyc3.cdn.digitaloceanspaces.com/icons/matrica_light.png" height=127 />
 
-We have formed strategic partnerships with other Solana-based projects (like MonkeDAO, Dead King Society, and Matrica) to foster a collaborative environment with shared events, revenue-sharing models, and cross-promotion to expand the GOALPOST community!
+In this spirit, we have formed strategic partnerships with other Solana-based projects (like MonkeDAO, Dead King Society, and Matrica) to foster a collaborative environment with shared events, revenue-sharing models, and cross-promotion to expand the GOALPOST community!
 
-<div >
-	<img style="vertical-align:middle; margin-right:10" src="https://goalpost.nyc3.cdn.digitaloceanspaces.com/icons/bonk_logo.png" height=30 /> <span>We would LOVE to discuss a potential partnership with bonk_inu</span>
-</div>
+<img src="https://goalpost.nyc3.cdn.digitaloceanspaces.com/icons/bonk_logo.png" height=120 />
+
+We would LOVE to discuss a potential partnership with bonk_inu
 
 ## The Core Team
 
