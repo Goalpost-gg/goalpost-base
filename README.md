@@ -24,7 +24,7 @@ GOALPOST is an exciting player-versus-player (PVP) card game inspired by the tra
 
 As builders, it is our eternal mission to onboard the next billion to the blockchain. We believe this is possible through the creation of highly engaging, dopamine inducing social games built on top of Solana's massive speed and scalability. Blockchain games are currently synonymous with clunky experiences and gameplay, and this is something that we are intent on changing.
 
-### A community centric gaming platform
+### A social gaming platform
 
 Unlike other blockchain games, GOALPOST offers a social, interactive experience where players can compete, collaborate, and earn together. Its engaging mechanics ensure high levels of excitement and satisfaction, fostering long-term player retention. Tie in the community based battlepass and seasonal leaderboards, and you have the perfect recipe for a truly community centric, highly social gaming environment.
 
@@ -74,11 +74,11 @@ We currently have 3 community partnerships, for which we have implemented commun
 
 In addition to wagering with SOL, our players can now jump into the fray with BONK!
 
-### Aggregated Transactions
+### 🗞️ Aggregated Transactions
 
 GOALPOST makes use of an aggregation framework on the backend to periodically settle the transactions between players and the table pot, reducing the transaction overhead.
 
-### A.I. Players
+### 🤖 A.I. Players
 
 Our A.I. player feature introduces a "play on demand" model to fill liquidity gaps and keep tables active, ensuring a vibrant gaming environment at all times, for both PVP & PVE. Our A.I. implementation makes it possible to have different "personalities" for each on demand player, from full on degen to card shark.
 
@@ -102,9 +102,9 @@ Once the platform is thorougly tested, we will be employing the services of a se
 
 ## Feature Roadmap
 
-### Private Tables
+### 🗝️ Private Tables
 
-Due to popular demand, we will be implementing private tables.
+Due to popular demand, we will adding room/table password and token/NFT gating functionality for user created tables, making it possible to host private games and events.
 
 ### 💰 In-game Currency
 
@@ -118,6 +118,10 @@ Introducing an affiliate and referral program where players can earn rewards for
 
 We will be implementing a spectator mode to allow players to join in on the action and watch their friends (or foes) play GOALPOST while cheering them on. We are also currently discussing the addition of a sidebetting feature to the spectator mode to allow players to place bets on game outcomes, adding an additional layer of excitement and strategy.
 
+### 🏛️ In-Game Asset Marketplace
+
+We aim to build an in-game asset marketplace where players can buy, sell, and trade in-game assets, such as cards, tables, and cosmetics. This will organically promote a vibrant in-game economy, providing players with opportunities to profit and enhance their gaming experience.
+
 ### ⚔️ Battle Pass System
 
 GOALPOST will feature a deep battlepass system where players can complete daily and weekly challenges to earn rewards such as tokens, NFTs, and in game assets to customize their tables. In addition to the basic battlepass, we intend on leveraging the full potential of our itegration with Matrica to offer community based battlepass progression, unlockable through NFT/token ownership across multiple chains.
@@ -130,11 +134,25 @@ Keeping in line with creating socially interactive events, we will be introducin
 
 Providing branded tables for partners and KOLs to expand the game’s reach through exclusive experiences and special events.
 
-### 🪙 Tokenized Tables
+### 🪙 Tokenized Tables w/ cNFTs
 
 Players will be able to create, customize, and own a limited number tokenized tables that will be featured in GOALPOST. Using assets from the in game store, players will be able to enhance their tokenized table to offer, for example, reduced fees, or even different modes. These tokenized tables will be fully tradeable: this creates a player-driven economy where table owners can earn revenue and influence the game environment.
 
+### 🎓 Goalpost Academy:
+
+We plan on launching Goalpost Academy, a suite of videos and tools to teach people how to build an audience and become creators on social platforms, will drive user adoption by empowering users to become Goalpost affiliates and create quality content with our pre-trained GPT models.
+
 ## Our Partnerships
+
+We are actively looking for new partnerships that will help us promote GOALPOST while increasing our value proposition.
+
+<img src="https://goalpost.nyc3.cdn.digitaloceanspaces.com/icons/monkedao_square.jpg" height=128 /> <img src="https://goalpost.nyc3.cdn.digitaloceanspaces.com/icons/dks.jpeg" height=128 /> <img src="https://goalpost.nyc3.cdn.digitaloceanspaces.com/icons/matrica_light.png" height=127 />
+
+We have formed strategic partnerships with other Solana-based projects (like MonkeDAO, Dead King Society, and Matrica) to foster a collaborative environment with shared events, revenue-sharing models, and cross-promotion to expand the GOALPOST community!
+
+<div >
+	<img style="vertical-align:middle; margin-right:10" src="https://goalpost.nyc3.cdn.digitaloceanspaces.com/icons/bonk_logo.png" height=30 /> <span>We would LOVE to discuss a potential partnership with bonk_inu</span>
+</div>
 
 ## The Core Team
 
