@@ -2,6 +2,8 @@
 
 # [GOALPOST.gg](https://alpha.goalpost.gg)
 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" height=30 width=30 />](https://x.com/G0ALPOST) [<img src="https://goalpost.nyc3.cdn.digitaloceanspaces.com/icons/discord_icon.svg" height=30 width=30 />](https://discord.gg/goalpost) [<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width=30 height=30/>](https://t.me/irwynks)
+
 GOALPOST is an exciting player-versus-player (PVP) card game inspired by the traditional Chinese card game "In Between," it combines strategic betting with psychological gameplay to create a fun and engaging experience. Built for speed, security, and scalability on the SOLANA blockchain, GOALPOST ensures fairness, transparency, and low-cost transactions, making it an ideal platform for both casual and competitive gamers.
 
 [Presentation Videos](https://drive.google.com/drive/folders/14pxDRxYOePSnAUyLSKaHZArlfNIWr_dz?usp=sharing)
@@ -14,13 +16,7 @@ GOALPOST is an exciting player-versus-player (PVP) card game inspired by the tra
 
 [BackEnd Repository (restricted access)](https://github.com/goalpost-gg/goalpost-backend)
 
-> Please reach out to us on telegram (https://t.me/irwynks) or on discord (https://discord.gg/goalpost) should you have any issues accessing the GOALPOST repositories.
-
-## A brief history
-
-### Building through the bear
-
-GOALPOST.gg started off as Bulls vs. Bears, in large part the brainchild of Niko, founder of Savage Labs Ltd. Bulls vs. Bears remained in alpha for most of the bear market in early 2023, during which a tight knit community formed around the game.
+> Please reach out to us on telegram or on discord should you have any issues accessing or questions about the GOALPOST repositories.
 
 ## Motivation
 
@@ -30,9 +26,7 @@ As builders, it is our eternal mission to onboard the next billion to the blockc
 
 ### Creating an integral social gaming platform
 
-Easy to Learn, Fun to Play: GOALPOST is designed for ease of access and enjoyment, making it perfect for social play. Its engaging mechanics ensure high levels of excitement and satisfaction, fostering long-term player retention.
-
-Unique Social Experience: Unlike many blockchain games, GOALPOST offers a social, interactive experience where players can compete, collaborate, and earn together.
+Easy to Learn, Fun to Play: GOALPOST is designed for ease of access and enjoyment, making it perfect for social play. Its engaging mechanics ensure high levels of excitement and satisfaction, fostering long-term player retention. Unlike many blockchain games, GOALPOST offers a social, interactive experience where players can compete, collaborate, and earn together.
 
 ## How to play
 
@@ -58,9 +52,11 @@ With BONKathon in our sights, we decided to prioritize the addition of SPL token
 
 ### Seamless Onboarding with Hot Wallets
 
-Players can simply sign in with their discord/email accounts to get started in no time. Every player is given a hot wallet that they can top-up with SOL or other tokens on Solana to play with. The hot wallet system is implemented using the [squads.so SDK](https://docs.squads.so/squads-v3-docs/development/sdk), making it possible to delegate control of these wallets to GOALPOST.
+Players can simply sign in with their discord/email accounts to get started in no time. Every player is given a hot wallet that they can top-up with SOL or other tokens on Solana to play with. The hot wallet system is implemented using the [squads.so multisig SDK](https://docs.squads.so/squads-v3-docs/development/sdk), making it possible to delegate control of these wallets to GOALPOST.
 
-###
+### Community Branded Tables
+
+### Custom Token Integration
 
 ### Aggregated Transactions
 
@@ -78,12 +74,17 @@ Players can simply sign in with their discord/email accounts to get started in n
 
 VRF (Verifiable Random Function) implementation is critical for ensuring the fairness and transparency of the game. Our next step in moving out of alpha will be to integrate on-chain randomization using Switchboard VRF, allowing players to verify the fairness of each game round on-chain to enhance player confidence, leading to greater player retention and engagement.
 
-Matrica Integration
+### Matrica Integration
+
 We have secured a partnership with Matrica, and will be integrating their API to create a seamless onboarding process for communities, while making it easy for new users to join and start playing. This collaboration is an integral part
 
 ### Solana Program
 
+With the proof of concept having served it's purposed, we will be developing a custom solana program to take over the hot wallet/gameplay transaction creation, management, and authority delegation for GOALPOST. Not only will this reduce fee overheads, but it will also allow us to open source our user backend logic and make it possible for other developers and teams to build on top of our technology.
+
 ### Security Audit
+
+Once the platform is thorougly tested, we will be employing the services of a security auditing team to thoroughly test our platform and vet our technology before moving GOALPOST onto solana mainnet.
 
 ## Feature Roadmap
 
