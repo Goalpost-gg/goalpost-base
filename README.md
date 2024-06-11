@@ -46,7 +46,7 @@ The purpose of the game is straightforward: at the beginning of the game, a play
 
 ## Building for BONKathon
 
-With BONKathon in our sights, we decided to prioritize the addition of SPL tokens as in game currency to GOALPOST.gg, integrating it into our fee structure and building the experience around the branding. This also gave us the opportunity to take a look at expanding our collaboration with other established blue chip communities with their own community tokens.
+With the BONKathon coming up, we decided to prioritize the addition of SPL tokens as in game currency to GOALPOST.gg, integrating it into our fee structure and building the experience around the branding. This also gave us the opportunity to take a look at expanding our collaboration with other established blue chip communities with their own community tokens.
 
 GOALPOST is still in active development, and while we have done our utmost to ensure that the current version of the game is bug free for the hackathon, we're sure that there are some that might have slipped through!
 
@@ -54,7 +54,7 @@ GOALpost is currently on devnet.
 
 ## Current Implementation
 
-The current version of GOALPOST is the culmination of continuous iteration on feedback received from our alpha testers throughout the closed alpha began at the close of the Colosseum Hackathon. We have been focusing on polishing the user experience and gameplay while steadily making progress on our roadmap milestones. Below is a brief outline of the current featureset that has been implemented:
+The current version of GOALPOST is the culmination of continuous iteration on feedback received from our alpha testers throughout the closed alpha that began at the close of the Colosseum Hackathon. We have been focusing on polishing the user experience and gameplay while steadily making progress on our roadmap milestones. Below is a brief outline of the current featureset that has been implemented:
 
 ### 💳 Seamless Onboarding with Hot Wallets
 
@@ -172,11 +172,11 @@ We are actively looking for new partnerships that will help us promote GOALPOST 
 
 <img src="https://goalpost.nyc3.cdn.digitaloceanspaces.com/icons/monkedao_square.jpg" height=128 /> <img src="https://goalpost.nyc3.cdn.digitaloceanspaces.com/icons/dks.jpeg" height=128 /> <img src="https://goalpost.nyc3.cdn.digitaloceanspaces.com/icons/matrica_light.png" height=127 />
 
-In this spirit, we have formed strategic partnerships with other Solana-based projects (like MonkeDAO, Dead King Society, and Matrica) to foster a collaborative environment with shared events, revenue-sharing models, and cross-promotion to expand the GOALPOST community!
+In this spirit, we have formed strategic partnerships with other Solana-based projects (like MonkeDAO, Dead King Society, and Matrica) to foster a collaborative environment with shared events, revenue-sharing models, and cross-promotion to expand the GOALPOST community.
 
 <img src="https://goalpost.nyc3.cdn.digitaloceanspaces.com/icons/bonk_logo.png" height=120 />
 
-We would LOVE to discuss a potential partnership with bonk_inu
+We would LOVE to discuss a potential partnership with bonk_inu!!!
 
 ## The Core Team
 
