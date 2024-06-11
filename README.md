@@ -24,13 +24,15 @@ GOALPOST is an exciting player-versus-player (PVP) card game inspired by the tra
 
 As builders, it is our eternal mission to onboard the next billion to the blockchain. We believe this is possible through the creation of highly engaging, dopamine inducing social games built on top of Solana's massive speed and scalability. Blockchain games are currently synonymous with clunky experiences and gameplay, and this is something that we are intent on changing.
 
-### An integral social gaming platform
+### A community centric gaming platform
 
-Easy to Learn, Fun to Play: GOALPOST is designed for ease of access and enjoyment, making it perfect for social play. Its engaging mechanics ensure high levels of excitement and satisfaction, fostering long-term player retention. Unlike many blockchain games, GOALPOST offers a social, interactive experience where players can compete, collaborate, and earn together.
+Unlike other blockchain games, GOALPOST offers a social, interactive experience where players can compete, collaborate, and earn together. Its engaging mechanics ensure high levels of excitement and satisfaction, fostering long-term player retention. Tie in the community based battlepass and seasonal leaderboards, and you have the perfect recipe for a truly community centric, highly social gaming environment.
 
 ### A tight knit community
 
-🧙‍♂️ Druids, first 1/1 Collection with rev share: The Druids collection will receive 20% of Goalpost's benefits, shared among the holders. With the collection expanding through private sales and auctions every two weeks for two years, these 144 holders (when fully minted) will enjoy a significant revenue share not only from Goalpost but from the entire Savage Labs ecosystem.
+#### 🧙‍♂️ Druids, first 1/1 Collection with rev. share
+
+The Druids collection will receive 20% of Goalpost's benefits, shared among the holders. With the collection expanding through private sales and auctions every two weeks for two years, these 144 holders (when fully minted) will enjoy a significant revenue share not only from Goalpost but from the entire Savage Labs ecosystem.
 
 ## How to play
 
@@ -54,7 +56,11 @@ With BONKathon in our sights, we decided to prioritize the addition of SPL token
 
 GOALPOST is still in active development, and while we have done our utmost to ensure that the current version of the game is bug free for the hackathon, we're sure that there are some that might have slipped through!
 
+GOALpost is currently on devnet.
+
 ## Current Implementation
+
+The current version of GOALPOST is the culmination of continuous iteration on feedback received from our alpha testers throughout the closed alpha began at the close of the Colosseum Hackathon. We have been focusing on polishing the user experience and gameplay while steadily making progress on our roadmap milestones. Below is a brief outline of the current featureset that has been implemented:
 
 ### 💳 Seamless Onboarding with Hot Wallets
 
@@ -62,29 +68,23 @@ Players can simply sign in with their discord/email accounts to get started in n
 
 ### Community Branded Tables
 
-Community partnerships and reve
+We currently have 3 community partnerships, for which we have implemented community branded tables. Revenue from these tables is shared with the respective communities.
 
 ### Custom Token Integration
+
+In addition to wagering with SOL, our players can now jump into the fray with BONK!
 
 ### Aggregated Transactions
 
 GOALPOST makes use of an aggregation framework on the backend to periodically settle the transactions between players and the table pot, reducing the transaction overhead.
 
-### A.I. Player
+### A.I. Players
 
 Our A.I. player feature introduces a "play on demand" model to fill liquidity gaps and keep tables active, ensuring a vibrant gaming environment at all times, for both PVP & PVE. Our A.I. implementation makes it possible to have different "personalities" for each on demand player, from full on degen to card shark.
 
-### Backend Architecture
-
-####
-
-#### Scalability with DO Functions
-
-### Frontend
-
 ## Next Phase
 
-### VRF with Switchboard
+### 🎲 Switchboard VRF
 
 VRF (Verifiable Random Function) implementation is critical for ensuring the fairness and transparency of the game. Our next step in moving out of alpha will be to integrate on-chain randomization using Switchboard VRF, allowing players to verify the fairness of each game round on-chain to enhance player confidence, leading to greater player retention and engagement.
 
@@ -101,6 +101,10 @@ With the proof of concept having served it's purposed, we will be developing a c
 Once the platform is thorougly tested, we will be employing the services of a security auditing team to thoroughly test our platform and vet our technology before moving GOALPOST onto solana mainnet.
 
 ## Feature Roadmap
+
+### Private Tables
+
+Due to popular demand, we will be implementing private tables.
 
 ### 💰 In-game Currency
 
@@ -120,7 +124,7 @@ GOALPOST will feature a deep battlepass system where players can complete daily 
 
 ### 🏆 Seasonal Leaderboards:
 
-Keeping in line with creating socially interactive events, we will be introducing seasonal community leaderboards with rewards for top performing communities and individuals in order to foster a competitive environment, motivating players to improve their skills and stay active in the game.
+Keeping in line with creating socially interactive events, we will be introducing seasonal community leaderboards with rewards for top performing communities and individuals in order to foster a competitive environment, motivating players to improve their skills and stay active in the game. Players will be able to choose a community/faction to represent for the season based on their on-chain asset ownership.
 
 ### 🏷️ Whitelabeled Tables
 
@@ -130,15 +134,13 @@ Providing branded tables for partners and KOLs to expand the game’s reach thro
 
 Players will be able to create, customize, and own a limited number tokenized tables that will be featured in GOALPOST. Using assets from the in game store, players will be able to enhance their tokenized table to offer, for example, reduced fees, or even different modes. These tokenized tables will be fully tradeable: this creates a player-driven economy where table owners can earn revenue and influence the game environment.
 
-## Economic Model
-
 ## Our Partnerships
 
 ## The Core Team
 
-| #1  | #2  | #3  | #4  |
-| --- | --- | --- | --- |
-| 301 | 283 | 290 | 286 |
+| <img src="https://goalpost.nyc3.cdn.digitaloceanspaces.com/pfps/niko.gif" height=128 width=128 /> | <img src="https://goalpost.nyc3.cdn.digitaloceanspaces.com/pfps/chris.gif" height=128 width=128 /> | <img src="https://goalpost.nyc3.cdn.digitaloceanspaces.com/pfps/irwynks.jpg" height=128 width=128 /> | <img src="https://goalpost.nyc3.cdn.digitaloceanspaces.com/pfps/gaby.jpg" height=128 width=128 /> |
+| :-----------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
+|                                          Niko (Founder)                                           |                                            Chris (CEO)                                             |                                            Irwynks (CTO)                                             |                                            Gaby (COO)                                             |
 
 # Thank You!
 
