@@ -142,11 +142,11 @@ We are actively looking for new partnerships that will help us promote GOALPOST 
 
 <img src="https://goalpost.nyc3.cdn.digitaloceanspaces.com/icons/monkedao_square.jpg" height=128 /> <img src="https://goalpost.nyc3.cdn.digitaloceanspaces.com/icons/dks.jpeg" height=128 /> <img src="https://goalpost.nyc3.cdn.digitaloceanspaces.com/icons/matrica_light.png" height=127 />
 
-In this spirit, we have formed strategic partnerships with other Solana-based projects (like MonkeDAO, Dead King Society, and Matrica) to foster a collaborative environment with shared events, revenue-sharing models, and cross-promotion to expand the GOALPOST community!
+In this spirit, we have formed strategic partnerships with other Solana-based projects (like MonkeDAO, Dead King Society, and Matrica) to foster a collaborative environment with shared events, revenue-sharing models, and cross-promotion to expand the GOALPOST community.
 
 <img src="https://goalpost.nyc3.cdn.digitaloceanspaces.com/icons/bonk_logo.png" height=120 />
 
-We would LOVE to discuss a potential partnership with bonk_inu
+We would LOVE to discuss a potential partnership with bonk_inu!!!
 
 ## The Core Team
 
