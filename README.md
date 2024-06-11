@@ -136,6 +136,36 @@ Players will be able to create, customize, and own a limited number tokenized ta
 
 We plan on launching Goalpost Academy, a suite of videos and tools to teach people how to build an audience and become creators on social platforms, will drive user adoption by empowering users to become Goalpost affiliates and create quality content with our pre-trained GPT models.
 
+## Challenges Moving Forward
+
+### Marketing and Scaling
+
+We will be promoting organic growth of our platform by following a tight release schedule based around building momentum from the alpha testing phase and events with other communities. Below is a brief overview of our immediate timeline heading towards the end of this year:
+
+#### 🎯 Alpha Testing Phase
+
+Focus on bringing alpha testers to play the game on devnet, followed by a private beta tournament with MonkeDAO and Dead King Society on mainnet within the next two weeks.
+
+#### 🏆 Community Tournaments
+
+Organize a larger tournament this summer with 16 communities, scaling the engagement and reach.
+
+#### 📈 Market Consolidation
+
+During the summer, continue to consolidate the community, onboard more white-label partners, and refine the product-market fit.
+
+#### 🎉 Marketing Campaigns
+
+Launch a wild marketing campaign in September, culminating in a launch party in Singapore and the introduction of the core collection and Druids auctions.
+
+#### 🖥️ Web2 Integrations
+
+We are currently in talks with online web2 casinos interested in using Goalpost with their audiences to bridge the gap between web2 and web3 markets. Collaborations with these platforms are scheduled to begin Q4 into Q1 2025.
+
+### Legal Ramifications
+
+Our monetization and tokenomic model is currently being audited to obtain a complete understanding of the legal implications of GOALPOST, especially with regards to the wagering aspect. We will be refactoring GOALPOSTs undelying economic model based on the outcome of this audit (should it be necessary).
+
 ## Our Partnerships
 
 We are actively looking for new partnerships that will help us promote GOALPOST while bringing value to all involved parties and communities.
